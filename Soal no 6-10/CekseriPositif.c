@@ -2,7 +2,7 @@
 Nama File 	    : CekseriPositif.c
 Deskripsi 	    : mengecek dan menampilkan total 3 tahanan bilangan tidak negatif A, B, dan C
 Pembuat   	    : Zhulfani Faisal Adam - 24060121140132
-Tgl Pembuatan	: 10-03-2021
+Tgl Pembuatan	: 10-03-2022
 */
 
 #include <stdio.h>
