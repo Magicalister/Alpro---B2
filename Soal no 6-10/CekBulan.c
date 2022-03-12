@@ -1,3 +1,9 @@
+/*
+Nama File 	    : CekBulan.c
+Deskripsi 	    : mengecek dan menampilkan bilangan integer N yang telah diklasifikasikan ke nama bulan
+Pembuat   	    : Zhulfani Faisal Adam - 24060121140132
+Tgl Pembuatan	: 10-03-2021
+*/
 
 #include <stdio.h>
 
