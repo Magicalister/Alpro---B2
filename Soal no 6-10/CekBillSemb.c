@@ -2,7 +2,7 @@
 Nama File 	    : CekBillSemb.c
 Deskripsi 	    : mengecek dan menampilkan bilangan integer N yang telah diklasifikasikan
 Pembuat   	    : Zhulfani Faisal Adam - 24060121140132
-Tgl Pembuatan	: 10-03-2021
+Tgl Pembuatan	: 10-03-2022
 */
 
 #include <stdio.h> /*header file*/
