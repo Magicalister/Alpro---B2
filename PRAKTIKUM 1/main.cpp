@@ -1,11 +1,8 @@
 // Zhulfani Faisal Adam - 24060121140132
 
-#include <iostream>
+#include <stdio.h>
 
-using namespace std;
-
-int main()
-{
-    cout << "Hello world!" << endl;
+int main (){
+    printf("Hello World");
     return 0;
 }
