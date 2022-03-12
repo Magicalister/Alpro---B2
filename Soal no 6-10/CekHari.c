@@ -2,7 +2,7 @@
 Nama File 	    : CekHari.c
 Deskripsi 	    : mengecek integer 1-7 dan menampilkan string yang telah diklasifikasikan berdasarkan hari
 Pembuat   	    : Zhulfani Faisal Adam - 24060121140132
-Tgl Pembuatan	: 10-03-2021
+Tgl Pembuatan	: 10-03-2022
 */
 
 #include <stdio.h>
