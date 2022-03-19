@@ -1,5 +1,5 @@
 /*
-Nama File 	: UpahKerja.c
+Nama File 	: TunjAnak.c
 Deskripsi 	: menghitung dan menampilkan tunjangan anak berdasarkan gaji
 Pembuat   	: Zhulfani Faisal Adam - 24060121140132
 Tgl Pembuatan	: 15-03-2022
