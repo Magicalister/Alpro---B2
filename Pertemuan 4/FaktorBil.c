@@ -2,7 +2,7 @@
 Nama        : FaktorBil.c
 Deskripsi 	: menghitung dan menampilkan faktor dari suatu bilangan
 Pembuat   	: Zhulfani Faisal Adam - 24060121140132
-Tgl Pembuatan	: 06-03-2021
+Tgl Pembuatan	: 15-03-2022
 */
 
 #include <stdio.h> /*header file*/
