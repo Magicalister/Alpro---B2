@@ -2,7 +2,7 @@
 Nama File 	: TarifPLN.c
 Deskripsi 	: menghitung dan menampilkan biaya PLN berdasarkan KWH
 Pembuat   	: Zhulfani Faisal Adam - 24060121140132
-Tgl Pembuatan	: 06-03-2021
+Tgl Pembuatan	: 14-03-2022
 */
 
 
