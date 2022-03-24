@@ -1,8 +1,9 @@
-/*Nama File 	: SiputNaik.c*/
-/*Deskripsi 	: mencari berapa hari waktu yang dibutuhkan*/
-/*Pembuat   	: <Benhard simanullang-24060120140136>*/
-/*Tgl Pembuatan	: <17-03-2021>*/
-
+/*
+Nama File 	: CekSempurna.c
+Deskripsi 	: mengecek apakah bilangan yang dimasukkan merupakkan bilangan sempurna
+Pembuat   	: Zhulfani Faisal Adam - 24060121140132
+Tgl Pembuatan	: 22-03-2022
+*/
 #include <stdio.h> /*header file*/
 
 /*Program Utama*/
